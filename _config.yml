@@ -1,0 +1,9 @@
+# Site settings
+title: blank
+author:
+  name: Matt Eichinger
+  email: eichinger.matt@gmail.com
+description: "theme settings"
+
+# Build settings
+remote-theme: jekyll/minima
